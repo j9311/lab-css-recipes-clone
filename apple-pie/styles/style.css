@@ -1,3 +1,4 @@
 h1 {
     text-align: center;
+    background-image: -moz-element(apple-pie.jpg);
 }
