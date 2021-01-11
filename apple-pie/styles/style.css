@@ -1,4 +1,14 @@
-h1 {
-    text-align: center;
-    background-image: -moz-element(apple-pie.jpg);
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+html, body{
+    font-family: 'Poppins';
+    display: block;
+    margin:0px 0px 0px 20px;
+}
+#section1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-block-end: 1.2em;
 }
